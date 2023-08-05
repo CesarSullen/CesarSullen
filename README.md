@@ -23,5 +23,5 @@
 ![shinobi tasks banner](./public/shinobi-tasks/desktop-view.png)
 [Shinobi Tasks](https://github.com/CesarSullen/shinobi-tasks/)
 
-![shinobi tasks banner](./public/guessing-game/desktop-view.png)
+![guessing game banner](./public/guessing-game/desktop-view.png)
 [Shinobi Tasks](https://github.com/CesarSullen/guessing-game/)
