@@ -20,5 +20,8 @@
 ![heavy planets banner](./public/heavy-planets/desktop-view.png)
 [Heavy Planets](https://github.com/CesarSullen/heavy-planets)
 
-![shinobi tasks banner](/public/shinobi-tasks/desktop-view.png)
+![shinobi tasks banner](./public/shinobi-tasks/desktop-view.png)
 [Shinobi Tasks](https://github.com/CesarSullen/shinobi-tasks/)
+
+![shinobi tasks banner](./public/guessing-game/desktop-view.png)
+[Shinobi Tasks](https://github.com/CesarSullen/guessing-game/)
