@@ -24,4 +24,7 @@
 [Shinobi Tasks](https://github.com/CesarSullen/shinobi-tasks/)
 
 ![guessing game banner](./public/guessing-game/desktop-view.png)
-[Shinobi Tasks](https://github.com/CesarSullen/guessing-game/)
+[Guessing Game](https://github.com/CesarSullen/guessing-game/)
+
+![gym master banner](./public/gym-master/desktop-view.png)
+[GYM Master](https://github.com/CesarSullen/gym-master/)
