@@ -17,14 +17,17 @@
 
 ## I make small projects to practice, down here are some screenshoots
 
-![heavy planets banner](./public/heavy-planets/desktop-view.png)
-[Heavy Planets](https://github.com/CesarSullen/heavy-planets)
+![pokedex](./public/pokedex/desktop-view.png)
+[Shinobi Tasks](https://github.com/CesarSullen/pokedex/)
 
 ![shinobi tasks banner](./public/shinobi-tasks/desktop-view.png)
 [Shinobi Tasks](https://github.com/CesarSullen/shinobi-tasks/)
 
-![guessing game banner](./public/guessing-game/desktop-view.png)
-[Guessing Game](https://github.com/CesarSullen/guessing-game/)
-
 ![gym master banner](./public/gym-master/desktop-view.png)
 [GYM Master](https://github.com/CesarSullen/gym-master/)
+
+![heavy planets banner](./public/heavy-planets/desktop-view.png)
+[Heavy Planets](https://github.com/CesarSullen/heavy-planets)
+
+![guessing game banner](./public/guessing-game/desktop-view.png)
+[Guessing Game](https://github.com/CesarSullen/guessing-game/)
