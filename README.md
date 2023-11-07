@@ -18,7 +18,7 @@
 ## I make small projects to practice, down here are some screenshoots
 
 ![pokedex](./public/pokedex/desktop-view.png)
-[Shinobi Tasks](https://github.com/CesarSullen/pokedex/)
+[Pokedex](https://github.com/CesarSullen/pokedex/)
 
 ![shinobi tasks banner](./public/shinobi-tasks/desktop-view.png)
 [Shinobi Tasks](https://github.com/CesarSullen/shinobi-tasks/)
