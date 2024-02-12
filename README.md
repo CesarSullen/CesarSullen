@@ -3,16 +3,20 @@
 
 <img src="https://img.freepik.com/vector-premium/banner-colorido-manos-trabajando-computadora-diferentes-aparatos-electronicos-dispositivos-simbolos-programacion-desarrollo-software-codificacion-programas_198278-4192.jpg" alt="profile banner"/>
 
-### I'm a web developer. At this time I only know front-end technologies, but I still learning.
+### I'm a web developer. At this time I only know front-end technologies, but I'm still learning.
 
-## Here are some of my current skills:
+## Down here are some of my current skills:
 
 - HTML
 - CSS
 - JavaScript
-- Vue.js
+- TypeScript
+- Node
+- Vue
 - Vite
 - Sass
+- Bootstrap
+- MongoDB
 - Git & GitHub
 
 ## I make small projects to practice, down here are some screenshoots
