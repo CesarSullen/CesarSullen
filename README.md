@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cesar</h1>
 <h2 allign="center">I'm a web-dev based in Cuba</h2>
 
-<img src="https://pin.it/6fxKwrYYm"/>
+<img src="./public/banner.jpg"/>
 
 ## Down here are some of my current skills:
 
@@ -19,4 +19,4 @@
 
 ## If you want to check my portfolio, click on the link below
 
-[Portfolio](https://cesarsullen.github.io)
+[See my Portfolio](https://cesarsullen.github.io)
