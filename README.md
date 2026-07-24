@@ -74,17 +74,71 @@ const saru = {
 
 ---
 
+# 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cesarsullen&show_icons=true&hide=stars&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsullen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cesarsullen&color=7c3aed&style=for-the-badge&label=Perfil+visto" alt="Visitor Count">
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-|                                           Stox                                            |                                                Radiocast                                                 |
-| :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-| <a href="https://cesarsullen.github.io/stox"><img src="./assets/stox.png" alt="Stox"></a> | <a href="https://cesarsullen.github.io/radiocast"><img src="./assets/radiocast.png" alt="Radiocast"></a> |
-|                                     Stock management.                                     |                                               Lo-Fi radio.                                               |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://cesarsullen.github.io/stox">
+        <img src="./assets/stox.png" alt="Stox" width="380" height="200" style="object-fit: cover; border-radius: 8px;">
+      </a>
+      <br>
+      <b>Stox</b>
+      <br>
+      <sub>Stock management.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cesarsullen.github.io/radiocast">
+        <img src="./assets/radiocast.png" alt="Radiocast" width="380" height="200" style="object-fit: cover; border-radius: 8px;">
+      </a>
+      <br>
+      <b>Radiocast</b>
+      <br>
+      <sub>Lo-Fi radio.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://cesarsullen.github.io/kuic">
+        <img src="./assets/kuic.png" alt="Kuic" width="380" height="200" style="object-fit: cover; border-radius: 8px;">
+      </a>
+      <br>
+      <b>Kuic</b>
+      <br>
+      <sub>To-Do App.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cesarsullen.github.io/greed0">
+        <img src="./assets/greed0.png" alt="Greed0" width="380" height="200" style="object-fit: cover; border-radius: 8px;">
+      </a>
+      <br>
+      <b>Greed0</b>
+      <br>
+      <sub>Simple Schedule.</sub>
+    </td>
+  </tr>
+</table>
 
-|                                           Kuic                                            |                                             Greed0                                              |
-| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-| <a href="https://cesarsullen.github.io/kuic"><img src="./assets/kuic.png" alt="Kuic"></a> | <a href="https://cesarsullen.github.io/greed0"><img src="./assets/greed0.png" alt="Greed0"></a> |
-|                                        To-Do App.                                         |                                        Simple Schedule.                                         |
+---
+
+# 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cesarsullen/cesarsullen/output/snake.svg" alt="Contribution Snake">
+</p>
 
 ---
 
